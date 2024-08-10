@@ -1,6 +1,6 @@
 # Title: Two Sum
 # Submission ID: 1336468648
-# Status: Accepted
+# Status: Internal Error
 # Date: July 28, 2024 at 12:16:18 PM CDT
 
 class Solution(object):
